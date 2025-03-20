@@ -1,0 +1,8 @@
+{
+    "version": "1.0.7.3",
+    "downloadurl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/Dalamud.Updater.7z",
+    "changelog": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/ChangeLog",
+    "config": {
+        "SafeMode": false
+    }
+}
