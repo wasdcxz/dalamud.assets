@@ -4,12 +4,12 @@
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/serveropcode.json",
             "FileName": "UIRes/serveropcode.json",
-            "Hash": "F3C850F0B62CCA55F814A479CDB536B6178D31B8"
+            "Hash": "7BBC80D20C734C3BE540D18DD0EC7D739B028927"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/clientopcode.json",
             "FileName": "UIRes/clientopcode.json",
-            "Hash": "B6BB30AEF1BC97A4617078A2AB87DD402E87AB12"
+            "Hash": "018B3B12724450302EAB709B3E969F7BB9AD734A"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/bannedplugin.json",

@@ -1,11 +1,11 @@
 {
-  "ActorControlSelf": 259,
+  "ActorControlSelf": 785,
   "HousingWardInfo": 653,
   "ContainerInfo": 631,
   "MarketBoardItemRequestStart": 729,
   "MarketBoardHistory": 445,
   "MarketBoardOfferings": 823,
-  "MarketBoardPurchase": 568,
+  "MarketBoardPurchase": 830,
   "InventoryActionAck": 446,
   "MarketTaxRates": 724,
   "RetainerInformation": 739,
@@ -13,5 +13,5 @@
   "CfNotifyPop": 327,
   "AirshipTimers": 617,
   "SubmarineTimers": 910,
-  "AirshipStatusList": 169
+  "AirshipStatusList": 294
 }
