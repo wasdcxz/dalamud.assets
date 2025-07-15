@@ -4,17 +4,17 @@
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/serveropcode.json",
             "FileName": "UIRes/serveropcode.json",
-            "Hash": "7BBC80D20C734C3BE540D18DD0EC7D739B028927"
+            "Hash": "3ADA4B06642F5830C3C905E1DD27A8086FDFB6EA"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/clientopcode.json",
             "FileName": "UIRes/clientopcode.json",
-            "Hash": "018B3B12724450302EAB709B3E969F7BB9AD734A"
+            "Hash": "DFC1B0814E54B7BEAEE317E437C3EE16207F0A13"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/bannedplugin.json",
             "FileName": "UIRes/bannedplugin.json",
-            "Hash": "79638D97D9858061B091AAA0A698A2F3EC17DC85"
+            "Hash": "7CD941E1A61278E72575E4691A78468BD01433B8"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/cheatplugin.json",
@@ -94,52 +94,52 @@
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_de.json",
             "FileName": "UIRes/loc/dalamud/dalamud_de.json",
-            "Hash": "A3F570CEAD11AF6BC256D7C3EC1CBAA961A3B227"
+            "Hash": "7AEDCB1D130237A039B27E1D0C7D92748CC2B6CB"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_es.json",
             "FileName": "UIRes/loc/dalamud/dalamud_es.json",
-            "Hash": "393D001FF563E0BDBD188F10A9D9D7BA9842F246"
+            "Hash": "602D9771941AB6804BFB3B07FBE1B20B2CA8ADC8"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_fr.json",
             "FileName": "UIRes/loc/dalamud/dalamud_fr.json",
-            "Hash": "77308FE75DD846C927070CA54DCF2DCE16AF97DF"
+            "Hash": "E3ED268B72F89824A78E27535C64210F8C727B11"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_it.json",
             "FileName": "UIRes/loc/dalamud/dalamud_it.json",
-            "Hash": "818BF43170F6B305471B01530D0FCD3F8FAF0777"
+            "Hash": "9FFDE1CB80351C0B0E0E8236DEBCCEA8D0E6E2A9"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_ja.json",
             "FileName": "UIRes/loc/dalamud/dalamud_ja.json",
-            "Hash": "10ED4CEFFE463A78CD6D6633F5079DD24C6726D6"
+            "Hash": "9CBE287B0F4AEEAEFD427A95AF7A5BB9141A54C0"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_ko.json",
             "FileName": "UIRes/loc/dalamud/dalamud_ko.json",
-            "Hash": "625F5EF0390F68612C3BF6F2D276DFE17AD50C4C"
+            "Hash": "C0B4D42D383C37DDEA3BD18D686011FFAA7E5823"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_no.json",
             "FileName": "UIRes/loc/dalamud/dalamud_no.json",
-            "Hash": "21BDEC1993E3D54200829C0BED2F35C5D781BFE0"
+            "Hash": "0D0280E008D256E8628864ED9722849ABA0E9579"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_ru.json",
             "FileName": "UIRes/loc/dalamud/dalamud_ru.json",
-            "Hash": "A4199158D555351AFD0A5B9684561225900EA8F0"
+            "Hash": "0A15F49DDEB27D30B985A85F5A88312568E7F183"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_zh.json",
             "FileName": "UIRes/loc/dalamud/dalamud_zh.json",
-            "Hash": "A10C7487B0C372FA8A90D98C73EF1DDD639AFB9D"
+            "Hash": "EC9F4E6560DB009C7147859A033C70A89100F576"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/loc/dalamud/dalamud_tw.json",
             "FileName": "UIRes/loc/dalamud/dalamud_tw.json",
-            "Hash": "2624BC1C57664F9A63BEB26CB45D031F4DA64A4B"
+            "Hash": "D9E557320DCA404C5BAD66CACE19088DD8EAC437"
         },
         {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/gamesym.ttf",
