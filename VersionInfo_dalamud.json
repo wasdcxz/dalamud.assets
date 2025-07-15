@@ -1,7 +1,7 @@
 {
     "AssemblyVersion": "11.0.0.8",
-    "SupportedGameVer": "2025.05.14.0000.0000",
-    "RuntimeVersion": "8.0.3",
+    "SupportedGameVer": "2025.07.04.0000.0000",
+    "RuntimeVersion": "9.0.3",
     "RuntimeRequired": true,
     "Hash": "",
     "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/11.0.0.8_Release.7z",
