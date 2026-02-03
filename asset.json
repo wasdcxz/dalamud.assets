@@ -2,6 +2,11 @@
     "Version": 1,
     "Assets": [
         {
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/badgeAtlas.png",
+            "FileName": "UIRes/badgeAtlas.png",
+            "Hash": "ADA0C94B92ACCBB7FAE799FE500DB986E923A623"
+        },
+        {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/UIRes/NotoSansCJK-Regular.ttc",
             "FileName": "UIRes/NotoSansCJK-Regular.ttc",
             "Hash": "41CEE0565517A6A1C7457C687273CF9C00159379"
