@@ -1,10 +1,10 @@
 {
-    "AssemblyVersion": "14.0.1.0",
+    "AssemblyVersion": "14.0.2.1",
     "SupportedGameVer": "2026.02.06.0000.0000",
     "RuntimeVersion": "10.0.2",
     "RuntimeRequired": true,
     "Hash": "",
-    "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/14.0.1.0_Release.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/14.0.2.1_Release.zip",
     "track": "",
     "changelog": "",
     "key": null
