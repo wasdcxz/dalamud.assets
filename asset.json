@@ -2,11 +2,6 @@
     "Version": 1,
     "Assets": [
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/bannedplugin.json",
-            "FileName": "UIRes/bannedplugin.json",
-            "Hash": "E1C92176FAC5DDD9EA6C2CB2E01D03514BC3C84F"
-        },
-        {
             "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansCJKjp-Medium.otf",
             "FileName": "UIRes/NotoSansCJKjp-Medium.otf",
             "Hash": "7334F0BADA3A7D52E1C642217EB7EA21BE700421"
