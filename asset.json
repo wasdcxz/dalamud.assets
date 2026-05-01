@@ -160,11 +160,6 @@
             "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_tw.json",
             "FileName": "UIRes/loc/dalamud/dalamud_tw.json",
             "Hash": "BE121E08E1AF48056282D92363832993CB9A90DF"
-        },
-        {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/pdb/ffxiv_dx11.pdb",
-            "FileName": "UIRes/pdb/ffxiv_dx11.pdb",
-            "Hash": "F7569ACE32BD0C22FFF333D153CDE7A21FCA705B"
         }
     ]
 }
