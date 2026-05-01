@@ -2,157 +2,162 @@
     "Version": 1,
     "Assets": [
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansCJKjp-Medium.otf",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/NotoSansCJKjp-Medium.otf",
             "FileName": "UIRes/NotoSansCJKjp-Medium.otf",
             "Hash": "7334F0BADA3A7D52E1C642217EB7EA21BE700421"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansKR-Regular.otf",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/bannedplugin.json",
+            "FileName": "UIRes/bannedplugin.json",
+            "Hash": "E1C92176FAC5DDD9EA6C2CB2E01D03514BC3C84F"
+        },
+        {
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/NotoSansKR-Regular.otf",
             "FileName": "UIRes/NotoSansKR-Regular.otf",
             "Hash": "5F533D0D5CAF3847AFA2D78301E7B87B3485ECBC"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/FontAwesomeFreeSolid.otf",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/FontAwesomeFreeSolid.otf",
             "FileName": "UIRes/FontAwesomeFreeSolid.otf",
             "Hash": "4860698FEE75A5481CB00C744B7EB297ABDC455D"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/FontAwesome710FreeSolid.otf",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/FontAwesome710FreeSolid.otf",
             "FileName": "UIRes/FontAwesome710FreeSolid.otf",
             "Hash": "4E4A7F0BF14D5E30DA71A3B697C2D7919D8FF5C1"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/Inconsolata-Regular.ttf",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/Inconsolata-Regular.ttf",
             "FileName": "UIRes/Inconsolata-Regular.ttf",
             "Hash": "FBE9E14427D84CE3F25F4D6A8EF57F527DB5A154"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/logo.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/logo.png",
             "FileName": "UIRes/logo.png",
             "Hash": "0F6323DDFA3665639142252281D22C675D8CD617"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/tsmShade.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/tsmShade.png",
             "FileName": "UIRes/tsmShade.png",
             "Hash": "AB7EE2E20955CDC4B98886BE7AEE962A98105D4B"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/tsmLogo.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/tsmLogo.png",
             "FileName": "UIRes/tsmLogo.png",
             "Hash": "DAC17EE20C63A0CD0C5040A8A900E3CA1B67C5CC"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/defaultIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/defaultIcon.png",
             "FileName": "UIRes/defaultIcon.png",
             "Hash": "81185C2BCC5DF0B52B610187EB3B9671C7FB0568"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/disabledIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/disabledIcon.png",
             "FileName": "UIRes/disabledIcon.png",
             "Hash": "3AFC19400A6475198503DCC25314BCBCDC03B929"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/outdatedInstallableIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/outdatedInstallableIcon.png",
             "FileName": "UIRes/outdatedInstallableIcon.png",
             "Hash": "BA96E817FE8EE2FCC976DEC986973C78BE3A37AE"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/troubleIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/troubleIcon.png",
             "FileName": "UIRes/troubleIcon.png",
             "Hash": "82F7C168A9C712BFCBADD7CFD49060BBC446A634"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/devPluginIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/devPluginIcon.png",
             "FileName": "UIRes/devPluginIcon.png",
             "Hash": "DC33AC5B811D32815BCB4C4261563EFFE532638E"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/updateIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/updateIcon.png",
             "FileName": "UIRes/updateIcon.png",
             "Hash": "544DA1125ADC03D63610127DC76E1FC5175615D3"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/installedIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/installedIcon.png",
             "FileName": "UIRes/installedIcon.png",
             "Hash": "F9A7E334CB719CF36B265A212B3D32A4578429B4"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/thirdIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/thirdIcon.png",
             "FileName": "UIRes/thirdIcon.png",
             "Hash": "2DFA794867B1ABFEFFF2923FF3C1E06801F9CBC1"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/changelogApiBump.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/changelogApiBump.png",
             "FileName": "UIRes/changelogApiBump.png",
             "Hash": "16BB14DEF2AD9894C9DA37483A6B0B9AADFCD72D"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/thirdInstalledIcon.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/thirdInstalledIcon.png",
             "FileName": "UIRes/thirdInstalledIcon.png",
             "Hash": "05E2B4508517646F0FC4E55A821F9A990B2559F7"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/badgeAtlas.png",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/badgeAtlas.png",
             "FileName": "UIRes/badgeAtlas.png",
             "Hash": "ADA0C94B92ACCBB7FAE799FE500DB986E923A623"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansCJK-Medium.ttc",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/NotoSansCJK-Medium.ttc",
             "FileName": "UIRes/NotoSansCJK-Medium.ttc",
             "Hash": "32D8A300209C1F8C2AC5BCA1078AAE26870861B7"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/NotoSansCJK-Regular.ttc",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/NotoSansCJK-Regular.ttc",
             "FileName": "UIRes/NotoSansCJK-Regular.ttc",
             "Hash": "41CEE0565517A6A1C7457C687273CF9C00159379"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_de.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_de.json",
             "FileName": "UIRes/loc/dalamud/dalamud_de.json",
             "Hash": "7F16B1FA1E676865F9ED1C02210CEE6977305FF4"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_es.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_es.json",
             "FileName": "UIRes/loc/dalamud/dalamud_es.json",
             "Hash": "DDE399AAAADE01484332BB99E78AD8E8D319F191"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_fr.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_fr.json",
             "FileName": "UIRes/loc/dalamud/dalamud_fr.json",
             "Hash": "A097143B99721AE888744B4C0031883C74C3BB9F"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_it.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_it.json",
             "FileName": "UIRes/loc/dalamud/dalamud_it.json",
             "Hash": "7017B0D86C4BDE52BD174734FBA70BF9153857B6"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_ja.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_ja.json",
             "FileName": "UIRes/loc/dalamud/dalamud_ja.json",
             "Hash": "FF5F90EBEEF0EAA83AD7B42A31FF103828A6E43D"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_ko.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_ko.json",
             "FileName": "UIRes/loc/dalamud/dalamud_ko.json",
             "Hash": "DCF22B056009267D937B4115F4EB6B0AF85EAD9D"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_no.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_no.json",
             "FileName": "UIRes/loc/dalamud/dalamud_no.json",
             "Hash": "2272FFAAE4FB6E884EC1F841F85C7BB2B64E544D"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_ru.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_ru.json",
             "FileName": "UIRes/loc/dalamud/dalamud_ru.json",
             "Hash": "DF814C1E5061D96E13A6409288FDD7A2E43A0435"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_zh.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_zh.json",
             "FileName": "UIRes/loc/dalamud/dalamud_zh.json",
             "Hash": "3E1083E3744800E5F6F0D67EA40F3692B570B608"
         },
         {
-            "Url": "https://raw.githubusercontent.com/goatcorp/DalamudAssets/master/UIRes/loc/dalamud/dalamud_tw.json",
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/loc/dalamud/dalamud_tw.json",
             "FileName": "UIRes/loc/dalamud/dalamud_tw.json",
             "Hash": "BE121E08E1AF48056282D92363832993CB9A90DF"
         }
