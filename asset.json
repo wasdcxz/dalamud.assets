@@ -7,6 +7,11 @@
             "Hash": "7334F0BADA3A7D52E1C642217EB7EA21BE700421"
         },
         {
+            "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/NotoSerifCJKkr-Medium.otf",
+            "FileName": "UIRes/NotoSerifCJKkr-Medium.otf",
+            "Hash": "0B9DE30A8E5396424B5A0A77F85A6D5ADC638909"
+        },
+        {
             "Url": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/master/UIRes/bannedplugin.json",
             "FileName": "UIRes/bannedplugin.json",
             "Hash": "E1C92176FAC5DDD9EA6C2CB2E01D03514BC3C84F"
