@@ -1,10 +1,10 @@
 {
-    "AssemblyVersion": "15.0.2.3",
+    "AssemblyVersion": "15.0.3.0",
     "SupportedGameVer": "2026.07.16.0001.0000",
     "RuntimeVersion": "10.0.2",
     "RuntimeRequired": true,
     "Hash": "",
-    "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/kr_7.55.zip",
+    "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/15.0.3.0.zip",
     "track": "",
     "changelog": "",
     "key": null
