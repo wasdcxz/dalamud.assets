@@ -1,8 +1,8 @@
 {
-    "AssemblyVersion": "15.0.3.9",
+    "AssemblyVersion": "15.0.4.1",
     "SupportedGameVer": "2026.11.03.0000.0000",
     "RuntimeVersion": "10.0.2",
     "RuntimeRequired": true,
     "Hash": "",
-    "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/7.58-15.0.3.9-27.zip"
+    "downloadUrl": "https://raw.githubusercontent.com/wasdcxz/dalamud.assets/refs/heads/main/7.58-15.0.4.1-1.zip"
 }
